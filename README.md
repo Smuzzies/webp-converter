@@ -2,6 +2,8 @@
 
 A modern, cross-platform desktop application for converting images to WebP format with custom quality settings and batch processing capabilities.
 
+![WebP Converter Screenshot](public/screenshot.png)
+
 ![WebP Converter](https://img.shields.io/badge/Built%20with-Tauri%20%2B%20React-blue)
 
 ## Features
